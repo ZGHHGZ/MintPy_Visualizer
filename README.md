@@ -8,3 +8,6 @@
 
 
 ![avatar](https://github.com/ZGHHGZ/MintPy_Visualizer/blob/main/图片1.jpg)
+
+
+![image](https://github.com/ZGHHGZ/MintPy_Visualizer/assets/88225620/ce69688a-e937-46ac-b436-c1e39487a6c6)
